@@ -1,0 +1,22 @@
+{
+  "recommendations": [
+    {
+      "item": "cloud",
+      "score": 1.0,
+      "reason": "co-occurs with python",
+      "popularity": 2
+    },
+    {
+      "item": "data",
+      "score": 0.0,
+      "reason": "popularity fallback",
+      "popularity": 1
+    }
+  ],
+  "evaluation": {
+    "recall_at_k": 1.0,
+    "ndcg_at_k": 1.0,
+    "users": 1,
+    "k": 3
+  }
+}
